@@ -12,3 +12,6 @@ Interactive GUI allowing users to perform operations easily.
 Download the project files.
 Run the main file Main.java or use the provided JAR file if available.
 Use the graphical interface to add shapes, perform operations, and save the shapes to a file.
+
+
+the txt files are files to upload to the program to show
